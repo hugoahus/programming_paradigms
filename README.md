@@ -1,4 +1,4 @@
-# All the labs about programming paradigms in the course Programming paradigms at KTH
+# Programming paradigm labs
 
 ## Copyright 2024 Hugo Larsson Wilhelmsson
 
